@@ -4,3 +4,4 @@ Vrebase change in rebase2
 Vrebase change in rebase3
 Vrebase change in rebase4
 Vrebase change in rebase5
+Vrebase change in rebase6
